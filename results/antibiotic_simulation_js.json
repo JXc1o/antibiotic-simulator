@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-02T06:44:23.760Z",
+  "patient": {
+    "age": 65,
+    "weight": 75,
+    "creatinineClearance": 80,
+    "infectionSeverity": 0.7
+  },
+  "drug": {
+    "name": "Ciprofloxacin",
+    "micSensitive": 0.5,
+    "micResistant": 8
+  },
+  "optimalRegimen": {
+    "dose": 250,
+    "interval": 6
+  },
+  "results": {
+    "finalBacterialCount": 6.731099541667245e+37,
+    "resistanceFraction": 1,
+    "treatmentSuccess": false
+  }
+}

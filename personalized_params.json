@@ -1,0 +1,13 @@
+{
+  "patient_age": 35,
+  "patient_weight": 70,
+  "patient_gender": "남성",
+  "creatinine_clearance": 120,
+  "liver_function": "정상",
+  "antibiotic_type": "Ciprofloxacin",
+  "dose_amount": 1799,
+  "dose_interval": 12,
+  "treatment_duration": 7,
+  "infection_site": "요로감염",
+  "infection_severity": "경증"
+}

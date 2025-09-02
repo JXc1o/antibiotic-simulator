@@ -1,0 +1,11 @@
+{
+  "patient_weight": 70,
+  "patient_age": 35,
+  "creatinine": 120,
+  "drug_name": "Ciprofloxacin",
+  "dose_amount": 500,
+  "dose_interval": 12,
+  "treatment_days": 7,
+  "mutation_rate": 9.999999999940612e-09,
+  "initial_resistance": 1.0
+}

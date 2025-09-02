@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-09-01T20:02:20.757902",
+  "parameters": {
+    "dose": 500,
+    "interval": 12,
+    "max_time": 168
+  },
+  "final_results": {
+    "final_time": 167.5,
+    "final_concentration": 0.4467956866241888,
+    "final_sensitive": 0,
+    "final_resistant": 961391955657.8372,
+    "final_resistance_fraction": 100.0
+  }
+}

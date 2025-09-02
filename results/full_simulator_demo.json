@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-09-01T19:10:29.645519",
+  "patient_profile": {
+    "age": 65,
+    "weight": 75,
+    "creatinine_clearance": 80,
+    "genetic_markers": {
+      "cyp_activity": 0.8,
+      "mdr1_activity": 1.2
+    },
+    "comorbidities": [
+      "diabetes",
+      "hypertension"
+    ],
+    "infection_severity": 0.7,
+    "prior_antibiotic_exposure": {
+      "penicillin": 7,
+      "ciprofloxacin": 5
+    }
+  },
+  "drug_properties": {
+    "name": "Ciprofloxacin",
+    "mic_sensitive": 0.5,
+    "mic_resistant": 8.0,
+    "mpc": 2.0,
+    "half_life": 4.0,
+    "volume_distribution": 2.5,
+    "protein_binding": 0.2,
+    "emax": 4.0,
+    "hill_coefficient": 2.0
+  },
+  "optimal_regimen": {
+    "dose": 1012.5000000000001,
+    "interval": 12,
+    "predicted_success_rate": 0.75,
+    "confidence": 0.6
+  },
+  "simulation_results": {
+    "final_bacterial_count": 1.4991683400081762e-16,
+    "resistance_fraction": 1.0,
+    "treatment_success": false,
+    "max_concentration": 9.818292579805988,
+    "min_concentration": 2.655263985182442
+  }
+}
